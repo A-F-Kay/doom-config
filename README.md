@@ -12,7 +12,7 @@
 
 Usage:
 1. Remove or backup default config (~/.doom.d/)
-1. Place contents of this config in (~/.config/doom.d/**) or in (~/.config/doom/*)
+1. Place contents of this config in (~/.config/doom.d/\**) or in (~/.config/doom/*)
 
 Changelog:
 - Added evil-tutor package (for study purposes)
